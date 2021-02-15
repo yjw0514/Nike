@@ -173,6 +173,9 @@ header {
 
 .banner_subtitle {
   text-align: center;
+}
+
+.banner_subtitle a {
   font-size: 12px;
   font-weight: 400;
   text-decoration: underline;
